@@ -1,3 +1,6 @@
+
+[🇺🇸 version]([https://rocketseat-ignite-challenge-01.vercel.app/](https://github.com/rafaelsangali/rocketseat-ignite-challenge-01/blob/main/README-en.md)) 
+
 # Aplicação Lista de Tarefas
 
 [clique aqui](https://rocketseat-ignite-challenge-01.vercel.app/) para acessar o projeto
