@@ -1,34 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Aplicação Lista de Tarefas
 
-## Getting Started
+[clique aqui](https://rocketseat-ignite-challenge-01.vercel.app/) para acessar o projeto
 
-First, run the development server:
+Este projeto é uma aplicação de gerenciamento de tarefas desenvolvida em ReactJS, implementando um estilo de lista de tarefas limpo e intuitivo. Ele oferece um conjunto de recursos e funcionalidades para ajudar os usuários a gerenciar suas tarefas de forma eficiente e aumentar a produtividade.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+### 📋 Funcionalidades
+A aplicação inclui um conjunto abrangente de recursos para agilizar o gerenciamento de tarefas:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+* Adicionar Novas Tarefas: Adicione facilmente novas tarefas à lista com um simples formulário de entrada. Capture todos os seus afazeres rapidamente e sem esforço.
+* Marcar como Concluído: Acompanhe seu progresso marcando as tarefas como concluídas. Essa funcionalidade permite diferenciar visualmente as tarefas pendentes das concluídas.
+* Remover Tarefas: Remova tarefas desnecessárias ou concluídas da lista sem esforço. Limpe seu espaço de trabalho e mantenha o foco nas tarefas que importam.
+* Acompanhamento de Progresso: Obtenha insights sobre o progresso de conclusão das suas tarefas. A aplicação fornece uma representação visual do progresso geral, oferecendo uma visão clara das suas realizações.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### ⌨️ Conceitos e Tecnologias
+Para desenvolver este projeto, é essencial ter amplo conhecimento e experiência nos seguintes conceitos e tecnologias:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+* ReactJS: Aproveite o poder do ReactJS para criar interfaces de usuário dinâmicas e interativas. Utilize a arquitetura baseada em componentes do React para construir um código reutilizável e escalável.
 
-## Learn More
+* Gerenciamento de Estado: Implemente técnicas eficazes de gerenciamento de estado para manter e atualizar os dados da aplicação. Entenda a importância da imutabilidade do estado e utilize-a para renderização eficiente.
 
-To learn more about Next.js, take a look at the following resources:
+* Listas e Chaves no ReactJS: Utilize listas e chaves de forma eficaz no ReactJS para lidar com a renderização de dados dinâmicos. Aproveite o poder dos métodos map e filter para manipulação de arrays sem problemas.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* Componentização: Adote os princípios de componentização para criar um código modular e reutilizável. Divida funcionalidades complexas em componentes menores e gerenciáveis para facilitar a manutenção.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+* React Hooks: Utilize React Hooks, como useState e useEffect, para gerenciar o estado e lidar com efeitos colaterais. Aproveite o poder dos hooks para simplificar seu código e melhorar sua legibilidade.
 
-## Deploy on Vercel
+### 🧑‍🎨 Design e Layout
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+O design e o layout da aplicação foram criados cuidadosamente pela equipe da [rocketseat](https://www.rocketseat.com.br/) para fornecer uma experiência amigável ao usuário e visualmente atraente.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Para acessar e duplicar o layout, siga as instruções abaixo:
+
+Crie uma conta no Figma visitando a página de cadastro do Figma.
+Após criar sua conta, [clique aqui](https://www.figma.com/file/0n0zDN7zbzhRbaEO74Xesx/ToDo-List/duplicate) para duplicar o layout para a sua conta Figma. Isso adicionará o layout à sua dashboard do Figma como uma cópia e permitirá que você faça alterações personalizadas, se desejar.
+Desenvolvimento
+
+Como um desenvolvedor frontend com  um ano de experiência, eu pude aproveitar essa oportunidade para demonstrar minha criatividade e aprimorar minhas habilidades. Considere as seguintes melhorias:
+
+* Personalização do Layout: Modifique o layout, esquema de cores e tipografia para adequá-los ao seu estilo pessoal e preferências. Experimente diferentes escolhas de design para criar uma aplicação visualmente impressionante.
+
+* Recursos Adicionais: Amplie a funcionalidade da aplicação adicionando novos recursos que aprimoram a experiência de gerenciamento de tarefas. Considere recursos como priorização de tarefas, prazos, lembretes ou recursos de colaboração.
+
+### Obrigado Rocketseat pela experiência
